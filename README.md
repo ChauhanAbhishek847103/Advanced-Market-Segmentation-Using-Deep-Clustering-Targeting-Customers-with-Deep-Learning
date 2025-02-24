@@ -101,8 +101,11 @@ View Dashboard: Open the frontend UI to visualize customer clusters
 Contributors
 
 Chauhan Abhishek Kumar Bam Bam
+
 B K CharuKeerthy Reddy
+
 Sujan J
+
 Nisarga B A
 
 
